@@ -14,10 +14,20 @@ Part 2 involves a little more data work. This section focuses on the climate dat
 
 Firstly, the Average Minimum Temperature was analyzed. This lead to realizing that the first 6 months of the Martian year are (on average) colder than the last 6 months. Extrapolation from this data, assumptions can be made that Mars' Perihelion is likely in the 8th month, and its Aphelion is likely in the 3rd. 
 
+![Avg. Min. Temps.](images/temps.jpg)
+
+![Avg. Min. Temps. Asc.](images/tempsasc.jpg)
+
 ### Pressure
 
 Pressure showed no similar patterns to temperature. While there does appear to be a cycle of pressure, it is not as clear cut as temperatures cycle. Monthly pressure begins high, moving higher until the middle of the year, where it crashes down to its yearly low in the 6th month. Then, it jumps back up to its peak in the 9th month before falling down to the middle of the graph in the 11th and 12th months. After this, assuming this is indeed a yearly trend, the pattern would start over. 
 
+![Avg. Pressure](images/pressure.jpg)
+
+![Avg. Pressure Asc.](images/pressureasc.jpg)
+
 ### Year Length
 
 A quick look at all observations for min temp in the data set can give a pretty good estimate of Martian year length. The estimate derived from the graph was a 660 Earth day orbital period, which lines up pretty closely with the actual figure of a 687 Earth day rotational period. [Source: Nasa](https://science.nasa.gov/mars/facts/#:~:text=A%20year%20on%20Mars%20lasts,its%20orbit%20around%20the%20Sun.)
+
+![All observations of Min. Temps.](images/mintemptotal.jpg)
