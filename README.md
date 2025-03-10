@@ -4,7 +4,7 @@ All work and solutions for the Module 11 HTML Scraping challenge are contained i
 
 ## Part 1
 
-Part 1 involves scraping news titles off of a webpage full of articles. All titles and previews are succesfully scraped and placed into a dictionary. 
+Part 1 involves scraping news titles off of a webpage full of articles. All titles and previews are succesfully scraped and placed into a dictionary. These can be found in `output/title_preview.txt`.
 
 ## Part 2
 
